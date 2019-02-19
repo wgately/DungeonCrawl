@@ -7,8 +7,8 @@ class App extends Component {
     return (
       <div className="App landing-background">
         <h1 className="App-title">Dungeon Crawl</h1>
+        <h3>This is a fun game of strategy and chance</h3>
         <div className="startButton"><Start /></div>
-        
       </div>
     );
   }
